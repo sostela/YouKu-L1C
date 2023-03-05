@@ -1,0 +1,10 @@
+src-git packages https://github.com/coolsnowwolf/packages^582fff365a32eedbdaafbd30d6c3fe831e7165db
+src-git luci https://github.com/coolsnowwolf/luci^acb16eb14cefcbdedd4baa473f4dd6f77fe9692d
+src-git routing https://github.com/coolsnowwolf/routing
+src-git telephony https://git.openwrt.org/feed/telephony.git^24acd46d2a42802d4aba7e1d78f29242543bf414
+#src-git helloworld https://github.com/fw876/helloworld.git
+#src-git oui https://github.com/zhaojh329/oui.git
+#src-git video https://github.com/openwrt/video.git
+#src-git targets https://github.com/openwrt/targets.git
+#src-git oldpackages http://git.openwrt.org/packages.git
+#src-link custom /usr/src/openwrt/custom-feed
